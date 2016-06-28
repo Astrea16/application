@@ -1,0 +1,20 @@
+	@font-face {
+		font-family: 'GothamProBla';
+		src: url(../fonts/GothamProBla.otf);
+	}
+	@font-face {
+		font-family: 'GothamProBol';
+		src: url(../fonts/GothamProBol.otf);
+	}
+	@font-face {
+		font-family: 'GothamProLig';
+		src: url(../fonts/GothamProLig.otf);
+	}
+	@font-face {
+		font-family: 'GothamProMed';
+		src: url(../fonts/GothamProMed.otf);
+	}
+	@font-face {
+		font-family: 'GothamProReg';
+		src: url(../fonts/GothamProReg.otf);
+}

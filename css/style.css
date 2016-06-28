@@ -1,0 +1,61 @@
+section{
+	background: url(../img/bgd.png);
+}
+.row{
+	margin: 350px 0px;
+}
+.text_1{
+	margin-top: 50px;
+}
+h1{
+	font: 48px 'GothamProBla';
+	color: #d65045;
+	text-transform: uppercase;
+	margin-top: 89px;
+}
+p{
+	font: 16px 'GothamProReg';
+	color: #a5a7ac;
+	
+	margin: 28px 0px 57px 1px;
+}
+img{
+	float: right;
+	margin-top: -251px;
+	margin-right: 94px;
+}
+.link-text{
+	font: 16px 'GothamProReg';
+	color: #fff;
+	text-decoration: none;
+	background: #688bb0;
+	margin-right: 15px;
+	padding: 18px 52px;
+	border-radius: 50px;
+}
+.link_2{
+	color: #cbccd3;
+	background: #ebecf0;
+}
+@media screen and (max-width: 768px) {
+		.row{
+			margin: 50px
+		}                                                                                                                              
+    h1{                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+    font-size: 35px;
+ }
+}
+@media screen and (max-width: 640px) {                                                                                                                              
+  .link-text {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+    padding: 10px 10px;
+		border-radius: 25px;
+		display: inline-block;
+		font-size: 12px;
+ }
+ 	.link_2{
+ 		margin-top: 10px;
+ 	}
+ 	.img-responsive{
+ 		display: none;
+ 	}	
+}	 
